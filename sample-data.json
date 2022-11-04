@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "preferences": []
+  },
+  {
+    "id": 1,
+    "preferences": [9, 23, 22]
+  },
+  {
+    "id": 2,
+    "preferences": [16, 9, 15]
+  },
+  {
+    "id": 3,
+    "preferences": [7, 9, 0]
+  },
+  {
+    "id": 4,
+    "preferences": [9, 18, 14]
+  },
+  {
+    "id": 5,
+    "preferences": []
+  },
+  {
+    "id": 6,
+    "preferences": []
+  },
+  {
+    "id": 7,
+    "preferences": [3, 0, 22]
+  },
+  {
+    "id": 8,
+    "preferences": []
+  },
+  {
+    "id": 9,
+    "preferences": [21, 15, 18]
+  },
+  {
+    "id": 10,
+    "preferences": [16, 3, 23]
+  },
+  {
+    "id": 11,
+    "preferences": [15, 3, 22]
+  },
+  {
+    "id": 12,
+    "preferences": [16, 3]
+  },
+  {
+    "id": 13,
+    "preferences": []
+  },
+  {
+    "id": 14,
+    "preferences": [9, 15, 1]
+  },
+  {
+    "id": 15,
+    "preferences": []
+  },
+  {
+    "id": 16,
+    "preferences": [9, 15, 7]
+  },
+  {
+    "id": 17,
+    "preferences": []
+  },
+  {
+    "id": 18,
+    "preferences": [15, 9, 12]
+  },
+  {
+    "id": 19,
+    "preferences": []
+  },
+  {
+    "id": 20,
+    "preferences": [9, 16]
+  },
+  {
+    "id": 21,
+    "preferences": [9, 18, 7]
+  },
+  {
+    "id": 22,
+    "preferences": [3, 14, 12]
+  },
+  {
+    "id": 23,
+    "preferences": []
+  }
+]
